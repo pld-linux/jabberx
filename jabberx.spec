@@ -6,6 +6,7 @@ Release:	1
 Group:		Applications
 License:	GPL
 Source0:	http://files.jabberstudio.org/jabberx/%{name}-%{version}.tar.gz
+# Source0-md5:	823798ee5102fdddfe1faf8eb99d5684
 URL:		http://jabberx.jabberstudio.org/
 BuildRequires:	iksemel-devel
 BuildRequires:	ncurses-devel
