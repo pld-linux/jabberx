@@ -1,5 +1,5 @@
 Summary:	Console client for the Jabber instant-messaging IM
-Summary(pl):	Terminalowy klient komunikatora Jabber
+Summary(pl.UTF-8):   Terminalowy klient komunikatora Jabber
 Name:		jabberx
 Version:	0.0.2
 Release:	1
@@ -19,11 +19,11 @@ platform. With JabberX, you can send and receive messages, browse and
 use Jabber services, participate in Jabber groupchats and search
 Jabber user directories.
 
-%description -l pl
+%description -l pl.UTF-8
 JabberX jest terminalowym klientem dla platformy komunikacyjnej
-Jabber. Przy u¿yciu JabberX mo¿na wysy³aæ i odbieraæ komunikaty,
-przegl±daæ i u¿ywaæ us³ug Jabbera, uczestniczyæ w rozmowach grupowych
-oraz przeszukiwaæ katalogi u¿ytkowników Jabbera.
+Jabber. Przy uÅ¼yciu JabberX moÅ¼na wysyÅ‚aÄ‡ i odbieraÄ‡ komunikaty,
+przeglÄ…daÄ‡ i uÅ¼ywaÄ‡ usÅ‚ug Jabbera, uczestniczyÄ‡ w rozmowach grupowych
+oraz przeszukiwaÄ‡ katalogi uÅ¼ytkownikÃ³w Jabbera.
 
 %prep
 %setup -q
