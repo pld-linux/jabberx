@@ -1,5 +1,5 @@
 Summary:	Console client for the Jabber instant-messaging IM
-Summary(pl.UTF-8):   Terminalowy klient komunikatora Jabber
+Summary(pl.UTF-8):	Terminalowy klient komunikatora Jabber
 Name:		jabberx
 Version:	0.0.2
 Release:	1
